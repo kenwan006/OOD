@@ -1,4 +1,7 @@
-1. **Elevator System:**
+Referece to the link:
+   https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html
+
+1.**Elevator System:**
    - Manages multiple elevators in the building.
    - Properties:
       - List of Elevators
